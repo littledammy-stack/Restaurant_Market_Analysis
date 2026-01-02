@@ -1,4 +1,4 @@
-# Restaurant_Markeet_Analysis
+# Restaurant_Market_Analysis
 This report summarizes the data analysis conducted on the Mexico Restaurant Rating dataset. As
 a Data Analyst, the goal was to evaluate consumer behavior, restaurant performance, and
 market opportunities to guide investment decisions.
